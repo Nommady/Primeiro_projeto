@@ -1,26 +1,26 @@
 @font-face {
-    src: url("resources/fonts/Pacifico/Pacifico-Regular.ttf");
+    src: url("..//resources/fonts/Pacifico/Pacifico-Regular.ttf");
     font-family: 'Pacifico-Regular';    
     font-weight: normal;
 } 
 .transparent{    
     background-color: rgba(0,0,0,0) !important;}
 .primeiro_bg{
-    background: url("/resources/img/full_back.jpg") no-repeat center center fixed;
+    background: url("..//resources/img/full_back.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
     }
     .segundo_bg{
-        background: url("/resources/img/bg_2.jpg") no-repeat center center fixed;
+        background: url("..//resources/img/bg_2.jpg") no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;
         -o-background-size: cover;
     }
     .terceiro_bg{
-        background: url("/resources/img/bg_3.jpg") no-repeat center center fixed;
+        background: url("..//resources/img/bg_3.jpg") no-repeat center center fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;
