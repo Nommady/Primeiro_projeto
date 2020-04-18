@@ -1,3 +1,4 @@
 font-family: 'Dancing Script', cursive;
 font-family: 'Roboto Condensed', sans-serif;
-font-family: 'Pacifico', cursive;
+font-family: 'Pacifico', cursive; logo
+font-family: 'Kaushan Script', cursive; header
